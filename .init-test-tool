@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/python-beginner-guide-46783-ab40b750/python_beginner_guide"
+}
